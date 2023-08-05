@@ -29,7 +29,7 @@ If you have trouble locating this file, run dosbox and look at the console. It u
 location of this file.
 Once the file is opened in a text editor, modify the following settings:
 	* Under `[autoexec]` add the following block of code:
-		```
+		```bat
 		@echo off
 		mount D: {REPO_PATH}
 		D:
