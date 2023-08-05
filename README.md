@@ -1,6 +1,7 @@
 # Nim-Asm
 A clone of the game [Nim](https://en.wikipedia.org/wiki/Nim) I wrote in 80x86 16-bit assembly
-as a project for high school. The game graphics were inspired (copied) from the online game
+as a project for high school. The game graphics were inspired (more accurately copied since I have
+zero skills in anything related to art and graphics) from the online game
 [Pearls before swine](https://www.gamesflow.com/jeux.php?id=2226106).
 
 ![](demo_intro.png "Intro")
